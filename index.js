@@ -20,8 +20,10 @@ console.log(string.toLowerCase())
 
 
 function sayHitoGrandma(string) {
-  return 
+  return `$response`
 }
+
+
 
 
   
