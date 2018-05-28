@@ -33,16 +33,16 @@ console.log(string.toLowerCase())
 
 function sayHitoGrandma(string) {
 
-if (sayHitoGrandma() === "I love you, Grandma.") {
+if (sayHitoGrandma() === 'I love you, Grandma.') {
 
-return "I love you, too."
+return 'I love you, too.'
 }
 
 else if (sayHitoGrandma() === uppercase) {
-return "YES INDEED!"
+return 'YES INDEED!'
 }
 
 else sayHitoGrandma();
 
-return "I can\'t hear you!"; 
+return 'I can\'t hear you!'; 
 }
