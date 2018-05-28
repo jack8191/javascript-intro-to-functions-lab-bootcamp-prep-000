@@ -20,10 +20,10 @@ console.log(string.toLowerCase())
 
 
 function sayHiToGrandma(string) {
- if (sayHiToGrandma() === 'I love you, Grandma')
+ if (sayHiToGrandma === 'I love you, Grandma')
  return 'I love you, too.'
  
- else if (sayHiToGrandma() === sayHiToGrandma.toUpperCase)
+ else if (sayHiToGrandma === sayHiToGrandma.toUpperCase)
  return 'YES INDEED!'
  
  else 
