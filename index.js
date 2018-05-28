@@ -21,17 +21,17 @@ console.log(string.toLowerCase())
 
 function sayHitoGrandma(string)
   
-  if {(sayHitoGrandma() === sayHitoGradma('I love you, Grandma.'))
+  {if (sayHitoGrandma() === sayHitoGradma('I love you, Grandma.'))
   return
   'I love you, too.'
 }
   
-  else if {(sayHitoGrandma() === sayHitoGrandma.uppercase())
+  {else if (sayHitoGrandma() === sayHitoGrandma.uppercase())
   return
   'YES INDEED!'
   }
   
-  else if { (sayHitoGrandma())
+  {else if  (sayHitoGrandma())
   return
   'I can\'t hear you!'
   }
