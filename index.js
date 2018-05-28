@@ -20,10 +20,10 @@ console.log(string.toLowerCase())
 
 
 function sayHitoGrandma(string) {
-  return `$response`
+  return 'bla bla bla'
 }
 
-if (sayHitoGrandma() === sayHitoGrandma)
+
 
 
   
